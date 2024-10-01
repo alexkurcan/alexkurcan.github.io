@@ -1,10 +1,10 @@
 # About Me
 ###### sorry for any grammatical errors!
 ## My Interests
-###### My name is _Alex Kurcan_, **I really like** to play games as well as just overall creative activites for example, **_writing, drawing, and sometimes_**, and sometimes I endulge in some reading (when I have the time).
+#### My name is _Alex Kurcan_, **I really like** to play games as well as just overall creative activites for example, **_writing, drawing, and sometimes_**, and sometimes I endulge in some reading (when I have the time).
 
 ### Favorite Games List | Subjective!!
-###### Most of the these I play on regular with the exception Minecraft, haven't played that one in a while.
+#### Most of the these I play on regular with the exception Minecraft, haven't played that one in a while.
 + Mahjong (matching)
 + Valorant
 + Minecraft
@@ -13,7 +13,7 @@
 + osu!
 + ~~COD...~~
 ### Top 10 Books | Also Subjetcive!!
-###### These are just some of the books that I have read this year, not my overall list that woulld be much longer. I've been enjoying the hobby or reading for a decently long time, spanning back to being a book worm while in elementary shool as well as all throughout my life if I am being totally honest. To elaborate on this list, it **isn't** my favorite books but really just a list of books that I've read off the top of my head.
+#### These are just some of the books that I have read this year, not my overall list that woulld be much longer. I've been enjoying the hobby or reading for a decently long time, spanning back to being a book worm while in elementary shool as well as all throughout my life if I am being totally honest. To elaborate on this list, it **isn't** my favorite books but really just a list of books that I've read off the top of my head.
 1. Where the Wind Blows by James Patterson
 2. Severance by Ling Ma
 3. The Memory Police by Yōko Ogawa
