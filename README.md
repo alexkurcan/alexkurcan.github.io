@@ -26,15 +26,15 @@
 10. A Shadow In The Ember by Jennifer Armentrout
 ### Things I've Done This year | Life Stuff
 - [x] Read more than 30 books this year
-- [] Get plat in VALORANT
-- [] Write at least once a day
+- [ ] Get plat in VALORANT
+- [ ] Write at least once a day
 - [x] Learn how to use markdown
-- [] Finish the some of my short stories
-- [] Add music to my playlists
+- [ ] Finish the some of my short stories
+- [ ] Add music to my playlists
 - [x] Make a new playlist for rap
 - [x] Find my old TBR (to be read) list
 - [x] Mark off old TBR books
-- [] Watch Oppenheimer for HUM110
+- [ ] Watch Oppenheimer for HUM110
 ### Favotire Websties | Life Stuff
 - [Youtube of course!](www.youtub.com) - I mean this website is something that I constaly use on the faily so I of course had to include it.
 - [Can't live without my music](https://open.spotify.com/) - Music is something that will forver love, honestly my love for music is like a bottemless pit. I list to just about everything and Spotify is how I fuel that love.
