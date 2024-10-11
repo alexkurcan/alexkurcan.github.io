@@ -40,3 +40,50 @@ These are just some of the books that I have read this year, not my overall list
 - [Can't live without my music](https://open.spotify.com/) - Music is something that will forver love, honestly my love for music is like a bottemless pit. I list to just about everything and Spotify is how I fuel that love.
 - [Life line for everything](www.google.com) - I use this again in my everyday life, there hasn't been a time in my day where I don't try and fact check something without using Google. This is a search engine.
 - [Bored but also not](https://www.mahjong-game.com/) - I love Mahjong matching, it's one of my favorite pastime games as well as just overall making me feel like i'm playing something that isn't rotting my brain away.
+
+## Mermaid Charts!!
+### Mindmap of What To Do When I'm Bored
+``` mermaid
+mindmap
+  root((Hobbies<br/>to do))
+      Books
+      ::icon(fa fa-book)
+        What to read
+            Look at shelf
+            Nothing interesting
+                Go to bookstore
+      Write
+      ::icon(fa fa-pen)
+        Find topic
+            Give up
+            Pen or Computer?
+                Computer
+                    Type up a short story
+                Pen
+                    give up and take a nap
+                    Hand write a story
+      Play a game
+        Anything
+            Roblox
+                Pass the bomb
+                Golf Frenzy
+                Something else
+            Valorant
+                Competive
+                Casual
+            Mirrors Edge
+            Stardew
+    Gundams
+      Get tools out
+        Purchase a kit
+            Build it
+                Take a photo<br/>and put on shelf
+```
+
+### Pie Chart of Stuff
+``` mermaid
+pie title What I do in a week
+    "School and Study" : 118
+    "Thinking about random things" : 85
+    "Work" : 15
+```
