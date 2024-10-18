@@ -19,3 +19,6 @@ numtru --> isnum[/You guessed the number, congrats!!/]
 isnum --> End([End])
 
 ```
+
+### Documentation Section
+This flow chart, then, essentially illustrates the procedure that the program would follow if it were written in code. As you can see, it includes a loop that illustrates what would happen if the user made an incorrect guess, in which case the process would restart and require a new input value. Subsequently, there is the higher or lower feature, which functions as a loop to indicate that there will always be a higher or lower feature to assist the user in guessing the correct number by gradually drawing nearer to their guess (with the higher or lower feature assisting them in finishing the task of determining the number). Naturally, if they correctly guess the number, then everything is OK and the cycle concludes with a little message congraluating them. And if they still are not able to guess the correct number than the loop contuines along with the higher or lower feature running, to again assist them within the game, until they do evenutally guess the the number.
