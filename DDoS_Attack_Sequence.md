@@ -19,4 +19,4 @@ sequenceDiagram
     Attacker-->>BotNet: Continue attack
 ```
 ## Documentation Section
-The steps involved in a Distributed Denial of Service (DDoS) assault on a web server belonging to a company are described in this article. The attacker, the compromised bots, the targeted server, and the defensive measures in place are all represented in the diagram. 
+The Attacker, who starts the attack, the Compromised Bot, which stands in for the bots making requests, the Target, which becomes overwhelmed, and the Firewall, which serves as the defense mechanism in response to the attack, are the four main elements in this sequence diagram. The Attacker gives the Bot the order to launch the attack first. The Bot then makes several queries to the Server. The increased requests cause the server to become overloaded. The Firewall receives excessive traffic, which the Server notifies it of. The Firewall analyzes the traffic and labels it as harmful. In order to safeguard the server, the firewall then denies the malicious requests.
