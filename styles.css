@@ -79,7 +79,7 @@ header {
 /* Column layout for the main sections */
 .column {
     float: left;
-    width: 33%;
+    width: 32%;
     padding: 15px;
     box-sizing: border-box;
 }
