@@ -1,30 +1,69 @@
-<!DOCTYPE html>   
-<html>
-    <head>
-        <title>My Personal Introduction</title>
-        <link rel=“stylesheet” href=./styles.css”>
-    </head>
-    <body>
-        <img src = "https://www.zooplus.co.uk/magazine/wp-content/uploads/2019/05/siamese-kitten.jpg" width="650">
-        <h1 class='name'>My Name is Alex Arias-Kurcan</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Introduction</title>
+    <link rel="stylesheet" href="./styles.css">
+    <nav>
+        <ul class="navBar">
+            <li><a class="navLink active" href="./index.html"><h3>Home</h3></a></li>
+            <li><a class="navLink" href="./interest.html"><h3>Interests</h3></a></li>
+            <li><a class="navLink" href="./contact.html"><h3>Contact</h3></a></li>
+        </ul>
+    </nav>
+</head>
+<body>
+    <header>
+    <h1 class='name'>
+        <img class='profilepic' src='https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg'/>
+        My Name is Alex Arias-Kurcan
+    </h1>
+    </header>
+    <article class="card">
+        <h2 class="sectiontitle">About Me</h2>
         <p>My name is Alex Arias-Kurcan, and my journey began in Dover, Delaware, where I was born and spent my early childhood until the age of four. Although my family has largely remained in Delaware, my life took a few turns as my mother decided to relocate to Maryland, where we lived until I was eight years old. Eventually, we settled in North Carolina, a place that has become home for me. My father, who hails from Cebu in the Philippines, and my mother, a native of Dover, have played significant roles in shaping my identity. My paternal grandmother, or lola, migrated to the United States when my father was young, and my family has deep roots in Delaware that continue to this day.</p>
         <p>Growing up in a multicultural environment has given me a unique perspective on life. My father’s Filipino heritage and my mother’s American upbringing have blended to create a rich tapestry of traditions and values that I carry with me. I often think about how my family’s history and experiences have influenced me, from the stories shared at family gatherings to the delicious meals that bring us together. While my mother has lived exclusively in the United States, my father still cherishes his ties to Cebu, which adds another layer to my cultural background.</p>
         <p>In my free time, I indulge in my passions for drawing, writing, and gaming. These creative outlets provide me with a much-needed escape from the demands of school and work. I often find myself immersed in different worlds, whether it’s sketching characters or developing stories that reflect my experiences and imagination. I also enjoy building Gundams whenever I can spare the funds; the intricate designs and assembly process are both challenging and rewarding. Balancing my hobbies with work can be tough, but they all contribute to who I am and what I aspire to be in the future.</p>
-        <a href="interest.html">Interest and Hobbies</a>
-        <br>
-        <a href="contact.html">Contact</a>
-        <ol><h3>Skills | Classes I've Taken:</h3>
-            <li>Python I and Python II</li>
-            <li>Networking I and Networking II</li>
-            <li>some HTML work</li>
-            <li>Communcation</li>
-            <li>Out of the box thinking</li>
-            <li>Good public speaker</li>
-        </ol>
-        <ul>
-            <li>Writting Short Stories - It is a small personal project that I had done, where I just wrote short stories and had people read them. A little vague sorry!</li>
-            <li>Chemistry Formal Lab report - As random as this sounds, we had a formal lab report for our chemistry class and I had really enjoyed finsihing it and getting a 100 becuase science related subjects are something that I've always been passionate about.</li>
-            <li>Writting a Book for Spanish II - We had to write a bookk for our Spanish class and of course it all had to be in spanish and make the cover as well as any images that I wanted within the book and seeing it printed out was really nice.</li>
-        </ul>
-    </body>
+    </article>
+    <main class="row">
+        <section class="column card">
+            <article> 
+                <h2 class="sectiontitle">Skills | Classes I've Taken</h2> 
+                <ol><h3>Skills | Classes I've Taken:</h3>
+                    <li>Python I and Python II</li>
+                    <li>Networking I and Networking II</li>
+                    <li>Some HTML work</li>
+                    <li>Communication</li>
+                    <li>Out of the box thinking</li>
+                    <li>Good public speaker</li>
+                </ol>
+            </article>
+        </section>
+        <section class="column card">
+            <article>
+                <h2 class="sectiontitle">Projects I've Worked on</h2>
+                <ul>
+                    <li>Writing Short Stories - It is a small personal project that I had done, where I just wrote short stories and had people read them. A little vague sorry!</li>
+                    <li>Chemistry Formal Lab Report - As random as this sounds, we had a formal lab report for our chemistry class, and I really enjoyed finishing it and getting a 100 because science-related subjects are something I've always been passionate about.</li>
+                    <li>Writing a Book for Spanish II - We had to write a book for our Spanish class, and of course, it all had to be in Spanish, including the cover and any images I wanted within the book. Seeing it printed was really nice.</li>
+                </ul>
+            </article>
+        </section>
+        <section class="column card">
+            <article>
+                <h2 class="sectiontitle">Quote</h2>
+                <p>“Our greatest glory is not in never falling, but in getting up every time we do.” - Confucius</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <article class="card">
+            <h3 class="sectiontitle">Contact Information</h3>
+            <p id="contactinfo">
+                akurcan@my.waketech.edu
+           </p>
+        </article>
+    </footer>
+</body>
 </html>

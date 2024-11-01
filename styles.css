@@ -5,8 +5,107 @@ Main Brand Color: #16526A;
 Dark Accent: #EEF3EE;
 Dark Shades: #17465C;
 */
-.name{
-    color:#EEF3EE;
-    font-family:'Times New Roman', Times, serif;
-    font-size:small;
+
+body {
+    background-color: #16526A;
+    font-family: Arial, sans-serif;
+    color: #EEF3EE;
+    margin: 0;
+}
+
+/* Active link color */
+.active {
+    background-color: #16526A;
+}
+
+/* Navigation */
+.navBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #17465C;
+}
+
+.navBar li {
+    float: left;
+}
+
+.navBar li a {
+    display: block;
+    padding: 14px 20px;
+    text-decoration: none;
+    color: #EEF3EE;
+}
+
+.navBar li a:hover {
+    background-color: #16526A;
+    color: #EEF3EE;
+}
+
+header {
+    color: #EEF3EE;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    background-color: #17465C;
+}
+
+/* Profile picture styling */
+.profilepic {
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.sectiontitle {
+    color: #EEF3EE;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+/* Card styles for sections */
+.card {
+    border: 3px solid #EEF3EE;
+    background-color: #16526A;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 15px;
+}
+
+/* Column layout for the main sections */
+.column {
+    float: left;
+    width: 33%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Hobbies & Interests */
+#Hobbies h3 {
+    color: #EEF3EE;
+    margin-bottom: 10px;
+}
+
+#Hobbies ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#Hobbies li {
+    margin-bottom: 8px;
+}
+
+/* Footer link styling */
+a:hover {
+    color: #EEF3EE;
 }
